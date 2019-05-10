@@ -1,4 +1,14 @@
-# morseconverter
+# Morse converter/player
+
+# Features
+```
+- Convert text to morse code
+- Use converted morse code to play sound
+```
+
+# Screenshots
+![input](https://i.imgur.com/gYAU0wG.png)
+![playing](https://i.imgur.com/MbNpmfI.png)
 
 ## Project setup
 ```
